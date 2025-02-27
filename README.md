@@ -1,4 +1,2 @@
-# Homework Template
-
-This is the base template for all other Boots-edu homework assignments.
-The other repositories should all use this as the upstream.
+# WebZ Loan Calculator
+This is a student loan claculator created as a project for a class called CISC181
